@@ -73,10 +73,10 @@ GOOGLE_REDIRECT_URI=http://localhost:8080/auth/google/callback
 GOOGLE_OAUTH_SCOPES=https://www.googleapis.com/auth/gmail.readonly https://www.googleapis.com/auth/gmail.send https://www.googleapis.com/auth/gmail.modify https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email openid
 
 GEMINI_API_KEY=your-gemini-api-key
-FRONTEND_URL=http://localhost:3000
+FRONTEND_URL=https://constructure-ai-sepia.vercel.app
 
 ## Frontend env
 
-NEXT_PUBLIC_BACKEND_URL=http://localhost:8080
+NEXT_PUBLIC_BACKEND_URL=https://constructure-ai-uurk.onrender.com
 NEXT_PUBLIC_GOOGLE_CLIENT_ID=xxxxx.apps.googleusercontent.com
 
