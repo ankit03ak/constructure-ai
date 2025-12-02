@@ -14,3 +14,4 @@ passlib[bcrypt]
 google-generativeai
 anyio
 starlette
+tenacity
