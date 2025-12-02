@@ -42,7 +42,7 @@ It uses **FastAPI** backend + **Next.js** frontend + **Gemini AI** for natural l
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/ankit03ak/constructure-ai
+git clone https://github.com/ankit03ak/constructure-ai.git
 cd constructure-ai
 
 cd backend
